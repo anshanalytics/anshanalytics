@@ -26,9 +26,13 @@
 <br>
 
 ## 📊 Featured Projects
-🚧 **Projects coming soon! Currently working on my first data analytics project.** 🚧
 
-*(Links will be added here as projects are completed)*
+### 🏠 [Gurgaon Real Estate Market Analysis](https://github.com/anshanalytics/gurgaon-real-estate-market-analysis)
+Performed Exploratory Data Analysis (EDA) on Gurgaon real estate data using Python to uncover pricing trends and market patterns.
+- **Tools:** Python, Pandas, NumPy, Matplotlib/Seaborn
+- **Key Finding:** Premium localities and RERA-approved properties show significantly higher pricing
+
+*(More projects coming soon 🚀)*
 
 <br>
 
