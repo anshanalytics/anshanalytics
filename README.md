@@ -31,6 +31,10 @@
 Performed Exploratory Data Analysis (EDA) on Gurgaon real estate data using Python to uncover pricing trends and market patterns.
 - **Tools:** Python, Pandas, NumPy, Matplotlib/Seaborn
 - **Key Finding:** Premium localities and RERA-approved properties show significantly higher pricing
+### 🏥 [Hospital Resource Allocation - SQL Analysis](https://github.com/anshanalytics/hospital-resource-allocation-sql)
+A SQL-driven analysis of hospital bed capacity, staffing, and patient satisfaction — built to identify operational bottlenecks and support resource allocation decisions, answering 15 business questions using window functions and CTEs.
+- **Tools:** MySQL, MySQL Workbench (Window Functions, CTEs)
+- **Key Finding:** Emergency services faced an 80.87% patient refusal rate — the most significant capacity pressure identified in the dataset.
 
 *(More projects coming soon 🚀)*
 
