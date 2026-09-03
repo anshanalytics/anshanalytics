@@ -35,6 +35,13 @@ Performed Exploratory Data Analysis (EDA) on Gurgaon real estate data using Pyth
 Analyzed a hospital operations dataset (7,858+ rows) using SQL to answer 15 business questions on bed capacity, staffing, and patient satisfaction.
 - **Tools:** MySQL, MySQL Workbench, Window Functions, CTEs
 - **Key Finding:** Emergency services show an 80.87% patient refusal rate — the biggest capacity bottleneck identified
+### 📱 [Mobile Sales Analytics Dashboard](https://github.com/anshanalytics/Mobile-Sales-Analytics-Dashboard)
+
+Built an interactive Power BI dashboard to analyze mobile sales performance, customer ratings, payment methods, brands, mobile models, cities, and sales trends.
+
+* **Tools:** Power BI, Power Query, DAX
+* **Key Features:** KPI cards, interactive slicers, city-wise sales map, monthly trends, payment method analysis, customer ratings, brand-wise performance, and mobile model-wise sales
+* **Focus:** Sales Performance Analysis | Customer Analysis | Product Analysis | Business Intelligence
 
 
 *(More projects coming soon 🚀)*
