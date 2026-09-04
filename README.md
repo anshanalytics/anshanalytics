@@ -43,6 +43,12 @@ Built an interactive Power BI dashboard to analyze mobile sales performance, cus
 * **Key Features:** KPI cards, interactive slicers, city-wise sales map, monthly trends, payment method analysis, customer ratings, brand-wise performance, and mobile model-wise sales
 * **Focus:** Sales Performance Analysis | Customer Analysis | Product Analysis | Business Intelligence
 
+### 📉 [Subscription Churn Analysis](https://github.com/anshanalytics/Subscription-Churn-Analysis)
+
+Analyzed a subscription business dataset (2,800 users, 4,405 events) using SQL to answer 15 business questions on churn drivers, customer segmentation, and at-risk users.
+
+- **Tools:** MySQL, MySQL Workbench, Window Functions, CTEs, RFM Segmentation
+- **Key Finding:** Payment failures (2+) combined with high support tickets push churn to 75.71% — the strongest churn predictor identified
 
 *(More projects coming soon 🚀)*
 
